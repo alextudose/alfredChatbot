@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "altfred-executor",
+    "name": "altfred",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "er5enphgv3",
+    "module": "bot"
+  }
+}

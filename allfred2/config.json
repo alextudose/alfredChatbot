@@ -1,0 +1,24 @@
+{
+  "lambda": {
+    "role": "altfred-executor",
+    "name": "altfred",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "er5enphgv3",
+    "module": "bot",
+    "url": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest",
+    "deploy": {
+      "facebook": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/facebook",
+      "slackSlashCommand": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/slack/slash-command",
+      "telegram": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/telegram",
+      "skype": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/skype",
+      "twilio": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/twilio",
+      "kik": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/kik",
+      "groupme": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/groupme",
+      "line": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/line",
+      "viber": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/viber",
+      "alexa": "https://er5enphgv3.execute-api.us-east-1.amazonaws.com/latest/alexa"
+    }
+  }
+}

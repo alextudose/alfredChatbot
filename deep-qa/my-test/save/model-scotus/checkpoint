@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\T3rroR\\Desktop\\DeepQA-master\\save/model-scotus\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\T3rroR\\Desktop\\DeepQA-master\\save/model-scotus\\model.ckpt"

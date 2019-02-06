@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\cutajar57\\Desktop\\DeepQA-master\\save/model-opensubs\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\cutajar57\\Desktop\\DeepQA-master\\save/model-opensubs\\model.ckpt"

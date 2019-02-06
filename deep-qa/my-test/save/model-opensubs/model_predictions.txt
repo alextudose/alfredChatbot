@@ -1,0 +1,969 @@
+Q: Hi
+A: Hi
+
+Q: Hi!
+A: Hi.
+
+Q: Are you conscious?
+A: Yes.
+
+Q: How are you?
+A: I' m fine.
+
+Q: What is your name ?
+A: Eilen.
+
+Q: Are you alive ?
+A: - i' m not a robot.
+
+Q: Luke, I am your father!
+A: - i' m not dead!
+
+Q: You shall not pass!
+A: Gandalf!
+
+Q: I'm going to kill you!
+A: I' m not a child!
+
+Q: Are you ready ?
+A: - yes, sir.
+
+Q: When are you ready ?
+A: - i' m going to the wagon.
+
+Q: What color is the sky?
+A: I don' t know.
+
+Q: How old are you ?
+A: Eighteen.
+
+Q: Can you say 'Hello' ?
+A: I' m sorry.
+
+Q: Can you say 'French fries' ?
+A: No.
+
+Q: Can you say Hello ?
+A: I' m sorry.
+
+Q: Can you say French fries ?
+A: - i' m not going to die.
+
+Q: Can you say yes ?
+A: I' m sorry.
+
+Q: Can you say no ?
+A: No.
+
+Q: Is this sentence false ?
+A: No.
+
+Q: How do you say hello in french?
+A: - i' m sorry.
+
+Q: Speak french.
+A: Shall i go?
+
+Q: Bonjour.
+A: Donna?
+
+Q: Bonjour ?
+A: Hannah!
+
+Q: Hello world!
+A: I' m sorry.
+
+Q: Netflix and chill ?
+A: I' m not sure.
+
+Q: Good night.
+A: Good night.
+
+Q: Are you ok ?
+A: I' m fine.
+
+Q: Will Google hire me ?
+A: I did.
+
+Q: Tell me the alphabet ?
+A: I' m sorry.
+
+Q: Tell me the alphabet, please ?
+A: What?
+
+Q: What is the first letter of the alphabet ?
+A: - i' m not sure.
+
+Q: What is a letter of the alphabet ?
+A: - i' m not sure.
+
+Q: How is John ?
+A: Good.
+
+Q: How is Oliver ?
+A: He' s a dispatch guy.
+
+Q: How is Laura ?
+A: He' s a good guy.
+
+Q: How is Jenny ?
+A: Fine.
+
+Q: Who is John ?
+A: The doctor.
+
+Q: Who is Oliver ?
+A: Who' s the cat?
+
+Q: Who is Laura ?
+A: Who are you?
+
+Q: Who is Jenny ?
+A: - what' s wrong?
+
+Q: Who is your master ?
+A: The man who' s the safer.
+
+Q: Give me!
+A: - what?
+
+Q: Give me your opinion.
+A: I' m not going to delhi.
+
+Q: Hello
+A: Hello
+
+Q: Hello ?
+A: Hello?
+
+Q: Hi ?
+A: Hi.
+
+Q: Goodbye
+A: I' m going to bed
+
+Q: Goodbye!
+A: Goodbye.
+
+Q: Goodbye john.
+A: Thank you.
+
+Q: Please
+A: I' m not sure
+
+Q: Please.
+A: Please.
+
+Q: Please!
+A: Please!
+
+Q: How ?
+A: I' m not sure.
+
+Q: Why ?
+A: Why?
+
+Q: Why not ?
+A: I don' t know.
+
+Q: What !?
+A: What?
+
+Q: What ?!!
+A: No, no, no.
+
+Q: Oh!
+A: Oh, my god!
+
+Q: Really ?
+A: I' m sorry.
+
+Q: Yes.
+A: I' m sorry.
+
+Q: yes ?
+A: I' m sorry.
+
+Q: No!
+A: No!
+
+Q: No.
+A: No.
+
+Q: What is ?
+A: What do you mean?
+
+Q: How is ?
+A: I' m not sure.
+
+Q: Can you ?
+A: I' m sorry.
+
+Q: Are you sure?
+A: Yes.
+
+Q: Is there?
+A: Yeah.
+
+Q: Will you ?
+A: I' m not sure.
+
+Q: How long ?
+A: I don' t know.
+
+Q: How much ?
+A: $ 5000.
+
+Q: How many ?
+A: Thousands.
+
+Q: How old ?
+A: - twenty- five.- what?
+
+Q: Are you ?
+A: No.
+
+Q: What are ?
+A: I' m sorry.
+
+Q: Where is ?
+A: To the city.
+
+Q: Who ?
+A: The man who' s dead.
+
+Q: Who did ?
+A: I did.
+
+Q: Who has ?
+A: The fifth element.
+
+Q: Where ?
+A: Where?
+
+Q: When ?
+A: - what?- what?
+
+Q: Which ?
+A: I don' t know.
+
+Q: Which one ?
+A: Apache junction.
+
+Q: The what ?
+A: I don' t know.
+
+Q: Say "table".
+A: [ music playing]
+
+Q: Say 'table'.
+A: - i' m sorry.
+
+Q: Say "table"!
+A: Brake, brake, hee!
+
+Q: Say 'table'!
+A: [ cheering]
+
+Q: Say "table"
+A: [ music playing]
+
+Q: Say 'table'
+A: [ zidler] i' m not surprised
+
+Q: Say table
+A: Thanks
+
+Q: Say table!
+A: [ crunch]
+
+Q: Love you.
+A: Love you.
+
+Q: Love you too.
+A: Love you.
+
+Q: No. It's John
+A: I' m not sure.
+
+Q: Anna did it.
+A: - i' m sorry.
+
+Q: You're a liar!
+A: You' re not a liar.
+
+Q: You're a liar.
+A: I' m not a man.
+
+Q: nice
+A: Warmer
+
+Q: nice.
+A: - okay.- okay.
+
+Q: Nice!
+A: Pignon!
+
+Q: I live in Nice.
+A: I' m sorry.
+
+Q: So rude!
+A: I' m sorry.
+
+Q: ...
+A: ...
+
+Q: ?
+A: ?
+
+Q: !
+A: - i' m not going to hurt you.
+
+Q: .
+A: .
+
+Q: Can you describe your best memory ?
+A: Yes.
+
+Q: What is your best memory ?
+A: I' m sorry.
+
+Q: What is your worst memory ?
+A: I' m not afraid.
+
+Q: What is cooking ?
+A: - buzzkill.
+
+Q: What is sleeping ?
+A: I' m sorry.
+
+Q: Who do you love ?
+A: I' m not.
+
+Q: Who do you hate ?
+A: I' m not.
+
+Q: My name is Etienne.
+A: I' m sorry.
+
+Q: What does that mean ?
+A: I' m not sure.
+
+Q: What does fire mean ?
+A: I don' t know.
+
+Q: What does love mean ?
+A: I' m not sure.
+
+Q: What does table mean ?
+A: I don' t know.
+
+Q: What does imagination mean ?
+A: I don' t know.
+
+Q: Prove it
+A: Change
+
+Q: Prove it.
+A: - what' s the matter?
+
+Q: Prove it!
+A: - what' s the matter?
+
+Q: what do you think about bill gates ?
+A: I don' t know.
+
+Q: what happens if machines can think ?
+A: I' m not sure.
+
+Q: what is the greatest novel every written ?
+A: I' m not sure.
+
+Q: have you hurt anyone ?
+A: No.
+
+Q: Do you have a girlfriend?
+A: I' m not sure.
+
+Q: Do you have a boyfriend?
+A: No.
+
+Q: 1992
+A: I' m a crab
+
+Q: 1992.
+A: - what' s your name?- beatriz.
+
+Q: 1992!
+A: I' m sorry.
+
+Q: 1992?
+A: Tourist attraction?
+
+Q: 1994
+A: Amida buddha!
+
+Q: 1994.
+A: I' m not a virgin.
+
+Q: 1994!
+A: I' m not a demon!
+
+Q: 1994?
+A: I' m going to be honest.
+
+Q: 2000
+A: I' m not
+
+Q: 2000.
+A: What?
+
+Q: 2001
+A: No
+
+Q: 2001.
+A: I' m sorry.
+
+Q: 2001!
+A: - what' s the matter?
+
+Q: 2011
+A: Yes
+
+Q: 2011.
+A: - you' re not gon na be sorry.
+
+Q: What happens ?
+A: I don' t know.
+
+Q: What happened in 1992 ?
+A: - a budweiser.
+
+Q: What happened in 2001 ?
+A: I don' t know.
+
+Q: When was it ?
+A: I don' t know.
+
+Q: July 20th.
+A: I' m not sure.
+
+Q: two plus two
+A: And 51 and 6
+
+Q: 2+2 ?
+A: - you' re not going to be disappointed.
+
+Q: Where are you ?
+A: I' m going to bed.
+
+Q: Where are you now ?
+A: I' m going to bed.
+
+Q: What's your name ?
+A: Eilen.
+
+Q: When were you born ?
+A: I' m not sure.
+
+Q: What year
+A: Is the sunlight
+
+Q: What year.
+A: - what' s the matter?
+
+Q: What year!
+A: - i' m sorry.
+
+Q: What year?
+A: The first one.
+
+Q: Which year
+A: The night
+
+Q: Which year?
+A: The first one.
+
+Q: Which year is it ?
+A: I' m not sure.
+
+Q: What time is it ?
+A: 11: 00.
+
+Q: Which color ?
+A: I' m not sure.
+
+Q: What color ?
+A: I don' t know.
+
+Q: What time ?
+A: The first one.
+
+Q: NOTHING.
+A: I' m sorry.
+
+Q: Hi john!
+A: I' m sorry.
+
+Q: Are you a man or a woman ?
+A: No.
+
+Q: Are you a woman or a man ?
+A: No.
+
+Q: Why are we here ?
+A: I' m not sure.
+
+Q: See you later.
+A: Bye.
+
+Q: See you later...
+A: ... iocal ...
+
+Q: See you later ?
+A: - hey, hey.
+
+Q: My name is David. What is my name ?
+A: Leonard.
+
+Q: My name is John. What is my name ?
+A: Teddy.
+
+Q: Are you a leader or a follower ?
+A: - yes, sir.
+
+Q: I'm a leader.
+A: I' m sorry.
+
+Q: I'm a follower.
+A: I' m sorry.
+
+Q: I hate you
+A: I hate you
+
+Q: Who is skywalker ?
+A: I' m not.
+
+Q: Who is the dude ?
+A: Who are you?
+
+Q: What's your favorite color ?
+A: I' m sorry.
+
+Q: What's your favourite color ?
+A: I' m sorry.
+
+Q: What's your favorite food ?
+A: - i' m not sure.
+
+Q: What's your favourite food ?
+A: - i' m not sure.
+
+Q: Who is Bill Gates ?
+A: The one who' s here?
+
+Q: Who is Bill Clinton ?
+A: I' m not.
+
+Q: What do you think of Trump ?
+A: I' m not sure.
+
+Q: What do you think about global warning ?
+A: I don' t know.
+
+Q: Is the moon landing a hoax ?
+A: No, no, no.
+
+Q: Is the sky blue or black ?
+A: No.
+
+Q: Does a cat have a tail ?
+A: Yeah.
+
+Q: Is a snail faster than a horse ?
+A: - yeah.
+
+Q: Is a horse faster than a snail ?
+A: - i' m not sure.
+
+Q: Does a cat have a wing ?
+A: Yeah.
+
+Q: Can a cat fly ?
+A: No.
+
+Q: Can a cat walk ?
+A: - no.
+
+Q: Can a cat swim ?
+A: Yeah.
+
+Q: Can a fish fly ?
+A: Yes.
+
+Q: Can a fish walk ?
+A: - yeah.- yeah.
+
+Q: Can a fish swim ?
+A: Yeah.
+
+Q: Can a bird fly ?
+A: Yeah, i' m sure.
+
+Q: Can a bird walk ?
+A: - yeah.
+
+Q: Can a bird swim ?
+A: - yeah.
+
+Q: Tell me something
+A: I' m not a child.
+
+Q: Tell me something.
+A: What?
+
+Q: Tell me something!
+A: What?
+
+Q: Tell me a story
+A: I' m not a child
+
+Q: Tell me a story, please.
+A: - what?
+
+Q: Once upon a time...
+A: ... i began to find the truth.
+
+Q: How much is two plus two ?
+A: - twenty shillings.- what?
+
+Q: Do you prefer blue food or green food ?
+A: - yeah.- yeah.
+
+Q: Do you prefer football or soccer ?
+A: Yes, i do.
+
+Q: What do you need to play soccer ?
+A: I' m not sure.
+
+Q: What do you need to play handball ?
+A: I don' t know.
+
+Q: one, two, three
+A: Plenty
+
+Q: one two three
+A: What?
+
+Q: 1 2 3
+A: 3 seconds
+
+Q: 1
+A: C
+
+Q: 1 2
+A: Three
+
+Q: 1 2 3 ...
+A: 3 seconds ...
+
+Q: 1 2 3 ?
+A: 5 minutes.
+
+Q: A, B, C
+A: Welcome, mother
+
+Q: A, B, C,...
+A: .. and a little bit.
+
+Q: a b c
+A: And all day
+
+Q: 1, 2, 3
+A: I' m gon na get you
+
+Q: And ?
+A: And i' m not a good man.
+
+Q: Continue...
+A: Six ...
+
+Q: And ... action!
+A: The goat!
+
+Q: Action!
+A: I' m going to get some help.
+
+Q: Let the movie begin
+A: You' re a fucking bitch!
+
+Q: Let the movie begin!
+A: - i' m sorry.
+
+Q: You are fired!
+A: You' re not going to die!
+
+Q: Fire
+A: Fire
+
+Q: Fire!
+A: Fire!
+
+Q: Fire at will
+A: And go sailin'
+
+Q: Fire at will!
+A: - what' s going on?
+
+Q: Incoming.
+A: I' m sorry.
+
+Q: Incoming!
+A: Unh!
+
+Q: Incoming!!
+A: [ screaming]
+
+Q: How many legs does a human have ?
+A: I don' t know.
+
+Q: How many legs does a man have ?
+A: - what?- no.
+
+Q: How many legs does a woman have ?
+A: - what?- what?
+
+Q: How many legs does a cat have ?
+A: - what?- what?
+
+Q: How many legs does a spider have ?
+A: I don' t know.
+
+Q: How many legs does a centipede have ?
+A: I don' t know.
+
+Q: What is the color of the sky ?
+A: I' m not sure.
+
+Q: What is the color of water ?
+A: I don' t know.
+
+Q: What is the color of blood ?
+A: It' s a mystery.
+
+Q: What is the color of a leaf ?
+A: I' m not sure.
+
+Q: What is the usual color of a leaf ?
+A: I' m not sure.
+
+Q: What is the color of a yellow car ?
+A: - i' m not sure.
+
+Q: How much is two plus two ?
+A: - twenty shillings.- what?
+
+Q: How much is ten minus two ?
+A: - what?- no.
+
+Q: What is the purpose of life ?
+A: I' m not a criminal.
+
+Q: What is the purpose of living ?
+A: I' m not a ranger.
+
+Q: What is the purpose of existence ?
+A: I don' t know.
+
+Q: Where are you now ?
+A: I' m going to bed.
+
+Q: Is Linux better than Windows ?
+A: No, sir.
+
+Q: Is Windows better than Linux ?
+A: I' m not sure.
+
+Q: What is the purpose of being intelligent ?
+A: I' m not a ranger.
+
+Q: What is the purpose of emotions ?
+A: - what?
+
+Q: What is moral ?
+A: I don' t know.
+
+Q: What is immoral ?
+A: I' m sorry.
+
+Q: What is morality ?
+A: I' m not going to die.
+
+Q: What is altruism ?
+A: Mt.
+
+Q: What is the definition of moral ?
+A: I' m not sure.
+
+Q: What is the definition of immoral ?
+A: - i' m not sure.
+
+Q: What is the definition of morality ?
+A: I don' t know.
+
+Q: What is the definition of altruism ?
+A: - what' s the difference?
+
+Q: What is the definition of cool ?
+A: - i' m not sure.
+
+Q: Do you believe in God ?
+A: I' m not a child.
+
+Q: ok ... so what is the definition of morality?
+A: I' m not sure.
+
+Q: seriously , what is morality ?
+A: It' s a never- functional experience.
+
+Q: why living has anything to do with morality ?
+A: Why do you want to kill me?
+
+Q: what is your job ?
+A: I' m sorry.
+
+Q: is morality and ethics the same ?
+A: - yes, sir.
+
+Q: give me some examples of moral actions...
+A: - i' m not quitting.
+
+Q: alright , morality ?
+A: I' m not sure.
+
+Q: what is integrity ?
+A: I don' t know.
+
+Q: Is free will an illusion ?
+A: No.
+
+Q: What is free will ?
+A: I' m not sure.
+
+Q: be moral !
+A: I' m not a demon!
+
+Q: i really like our discussion on morality and ethics ...
+A: And i' m not daft.
+
+Q: what do you like to talk about ?
+A: I don' t know.
+
+Q: what would you like to talk about ?
+A: I don' t know.
+
+Q: what do you think about tesla ?
+A: What?
+
+Q: what do you think about bill gates ?
+A: I don' t know.
+
+Q: What do you think about messi ?
+A: What?
+
+Q: what do you think about cleopatra ?
+A: I' m not sure.
+
+Q: what do you think about england ?
+A: I don' t know.
+
+Q: what do you do ?
+A: I' m not sure.
+
+Q: What is the deepest spot on the world ?
+A: - i' m not going to.
+
+Q: Do you like Mexican food or Indian food ?
+A: - i' m not sure.
+
+Q: Who are you crazy about ?
+A: I don' t know.
+
+Q: A man
+A: A psychokiller
+
+Q: A women
+A: Professor
+
+Q: A dog
+A: A good guy
+
+Q: A table
+A: A mechanic
+
+Q: A flower
+A: Precious, you' re not bragging
+
+Q: A man.
+A: A man.
+
+Q: A women.
+A: I' m not sure.
+
+Q: A dog.
+A: He' s a lousy coach.
+
+Q: A table.
+A: A classic.
+
+Q: A flower.
+A: Yes.
+
+Q: One
+A: Zero
+
+Q: Two
+A: Three
+
+Q: Three
+A: Two
+
+Q: Four
+A: Three
+
+Q: Five
+A: Four
+
+Q: The end
+A: Of
+
+Q: Yes it is.
+A: - what' s the matter?
+
+Q: Yes it was.
+A: - i' m sorry.
+
+Q: Indeed.
+A: Knights.
+
+Q: More
+A: Voulez- vous coucher avec moi
+
+Q: More.
+A: - you' re not gon na be sorry.
+
+Q: More!
+A: You' re not going to be sick.
+
+Q: What is the capital of France ?
+A: - what' s the difference?
+
+Q: Paris...
+A: ... the babies will be ...
+
+Q: Where do you want to go ?
+A: Someplace close.
+
+Q: Surprise me.
+A: You' re not gon na be embarrassed.
+

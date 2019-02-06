@@ -1,0 +1,182 @@
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /
+Internal Server Error: /snippets/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/site-packages/channels/handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 471, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 389, in initial
+    self.check_permissions(request)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 322, in check_permissions
+    if not permission.has_permission(request, self):
+AttributeError: 'BasicAuthentication' object has no attribute 'has_permission'
+Internal Server Error: /snippets/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/site-packages/channels/handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 471, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 389, in initial
+    self.check_permissions(request)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 322, in check_permissions
+    if not permission.has_permission(request, self):
+AttributeError: 'BasicAuthentication' object has no attribute 'has_permission'
+Not Found: /snippets/
+Internal Server Error: /bot/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/site-packages/channels/handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/decorators.py", line 53, in handler
+    return func(*args, **kwargs)
+  File "/root/DeepQA/chatbot_website/api/views.py", line 14, in call_bot
+    data = JSONParser().parse(request.data)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/parsers.py", line 68, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/utils/json.py", line 34, in load
+    return json.load(*args, **kwargs)
+  File "/usr/local/lib/python3.5/json/__init__.py", line 265, in load
+    return loads(fp.read(),
+  File "/usr/local/lib/python3.5/codecs.py", line 493, in read
+    newdata = self.stream.read()
+AttributeError: 'dict' object has no attribute 'read'
+Internal Server Error: /bot
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/site-packages/django/utils/deprecation.py", line 122, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python3.5/site-packages/django/middleware/common.py", line 63, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/usr/local/lib/python3.5/site-packages/django/middleware/common.py", line 101, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 192.168.99.100:8000/bot/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+Internal Server Error: /bot/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/site-packages/channels/handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/decorators.py", line 53, in handler
+    return func(*args, **kwargs)
+  File "/root/DeepQA/chatbot_website/api/views.py", line 14, in call_bot
+    data = JSONParser().parse(request.data)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/parsers.py", line 68, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/utils/json.py", line 34, in load
+    return json.load(*args, **kwargs)
+  File "/usr/local/lib/python3.5/json/__init__.py", line 265, in load
+    return loads(fp.read(),
+  File "/usr/local/lib/python3.5/codecs.py", line 493, in read
+    newdata = self.stream.read()
+AttributeError: 'dict' object has no attribute 'read'
+Internal Server Error: /bot/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/site-packages/channels/handler.py", line 243, in process_exception_by_middleware
+    return super(AsgiHandler, self).process_exception_by_middleware(exception, request)
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/usr/local/lib/python3.5/site-packages/rest_framework/decorators.py", line 53, in handler
+    return func(*args, **kwargs)
+  File "/root/DeepQA/chatbot_website/api/views.py", line 14, in call_bot
+    dataJSON = json.loads(request.data)
+  File "/usr/local/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'dict'
+"POST /bot/ HTTP/1.1" 201 32
+"POST /bot/ HTTP/1.1" 201 44
+"POST /bot/ HTTP/1.1" 201 44
+Internal Server Error: /bot
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/site-packages/django/utils/deprecation.py", line 122, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python3.5/site-packages/django/middleware/common.py", line 63, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/usr/local/lib/python3.5/site-packages/django/middleware/common.py", line 101, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/bot/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+"POST /bot HTTP/1.1" 500 59679
+"POST /bot/ HTTP/1.1" 201 32
+"POST /bot/ HTTP/1.1" 201 32
+"POST /bot/ HTTP/1.1" 201 32
+"POST /bot/ HTTP/1.1" 201 41
+"POST /bot/ HTTP/1.1" 201 41
+"POST /bot/ HTTP/1.1" 201 41
+"POST /bot/ HTTP/1.1" 201 53
+"POST /bot/ HTTP/1.1" 201 36
+"POST /bot/ HTTP/1.1" 201 56

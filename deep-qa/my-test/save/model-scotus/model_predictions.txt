@@ -1,0 +1,969 @@
+Q: Hi
+A: Yes.
+
+Q: Hi!
+A: Yes.
+
+Q: Are you conscious?
+A: Yes.
+
+Q: How are you?
+A: I'm sorry.
+
+Q: What is your name ?
+A: And --
+
+Q: Are you alive ?
+A: Yes.
+
+Q: Luke, I am your father!
+A: Yes, your honor.
+
+Q: You shall not pass!
+A: Yes.
+
+Q: I'm going to kill you!
+A: I'm sorry.
+
+Q: Are you ready ?
+A: Yes.
+
+Q: When are you ready ?
+A: Yes.
+
+Q: What color is the sky?
+A: I'm not aware of the court is.
+
+Q: How old are you ?
+A: Yes, your honor.
+
+Q: Can you say 'Hello' ?
+A: Yes, your honor.
+
+Q: Can you say 'French fries' ?
+A: Yes, your honor.
+
+Q: Can you say Hello ?
+A: Yes, your honor.
+
+Q: Can you say French fries ?
+A: Yes, your honor.
+
+Q: Can you say yes ?
+A: Yes.
+
+Q: Can you say no ?
+A: Yes.
+
+Q: Is this sentence false ?
+A: Yes, your honor.
+
+Q: How do you say hello in french?
+A: I'm sorry.
+
+Q: Speak french.
+A: Yes, i do n't think so.
+
+Q: Bonjour.
+A: -- that's not --
+
+Q: Bonjour ?
+A: Yes.
+
+Q: Hello world!
+A: Yes.
+
+Q: Netflix and chill ?
+A: Yes, your honor.
+
+Q: Good night.
+A: Yes, your honor.
+
+Q: Are you ok ?
+A: Yes.
+
+Q: Will Google hire me ?
+A: It's not a continuation of the statute.
+
+Q: Tell me the alphabet ?
+A: Yes.
+
+Q: Tell me the alphabet, please ?
+A: Sure.
+
+Q: What is the first letter of the alphabet ?
+A: No, your honor.
+
+Q: What is a letter of the alphabet ?
+A: It's a very vague.
+
+Q: How is John ?
+A: Yes, your honor.
+
+Q: How is Oliver ?
+A: Yes, your honor.
+
+Q: How is Laura ?
+A: Yes, your honor.
+
+Q: How is Jenny ?
+A: Yes, your honor.
+
+Q: Who is John ?
+A: That's correct.
+
+Q: Who is Oliver ?
+A: Yes, your honor.
+
+Q: Who is Laura ?
+A: Yes, your honor.
+
+Q: Who is Jenny ?
+A: Yes, your honor.
+
+Q: Who is your master ?
+A: That's correct.
+
+Q: Give me!
+A: -- the court.
+
+Q: Give me your opinion.
+A: And i'm sorry.
+
+Q: Hello
+A: Yes.
+
+Q: Hello ?
+A: Thank you, mr. chief justice.
+
+Q: Hi ?
+A: Yes.
+
+Q: Goodbye
+A: Yes.
+
+Q: Goodbye!
+A: Yes.
+
+Q: Goodbye john.
+A: Yes.
+
+Q: Please
+A: Yes.
+
+Q: Please.
+A: Yes.
+
+Q: Please!
+A: Yes.
+
+Q: How ?
+A: Well, i --
+
+Q: Why ?
+A: Well --
+
+Q: Why not ?
+A: -- and --
+
+Q: What !?
+A: Yes, your honor.
+
+Q: What ?!!
+A: No, your honor.
+
+Q: Oh!
+A: -- the court.
+
+Q: Really ?
+A: Yes.
+
+Q: Yes.
+A: -- that's correct.
+
+Q: yes ?
+A: Yes.
+
+Q: No!
+A: -- that's correct.
+
+Q: No.
+A: Yes.
+
+Q: What is ?
+A: Yes.
+
+Q: How is ?
+A: Yes.
+
+Q: Can you ?
+A: Yes.
+
+Q: Are you sure?
+A: Yes.
+
+Q: Is there?
+A: Yes, your honor.
+
+Q: Will you ?
+A: Yes.
+
+Q: How long ?
+A: No, your honor.
+
+Q: How much ?
+A: Yes.
+
+Q: How many ?
+A: And --
+
+Q: How old ?
+A: Yes, your honor.
+
+Q: Are you ?
+A: Yes.
+
+Q: What are ?
+A: Uh-huh.
+
+Q: Where is ?
+A: Yes.
+
+Q: Who ?
+A: That's correct.
+
+Q: Who did ?
+A: Yes, your honor.
+
+Q: Who has ?
+A: Yes.
+
+Q: Where ?
+A: The --
+
+Q: When ?
+A: No, your honor.
+
+Q: Which ?
+A: Well, i --
+
+Q: Which one ?
+A: Yes.
+
+Q: The what ?
+A: Okay.
+
+Q: Say "table".
+A: Official
+
+Q: Say 'table'.
+A: It's a different question.
+
+Q: Say "table"!
+A: And the --
+
+Q: Say 'table'!
+A: And the --
+
+Q: Say "table"
+A: -- the court --
+
+Q: Say 'table'
+A: Okay.
+
+Q: Say table
+A: -- that's --
+
+Q: Say table!
+A: And --
+
+Q: Love you.
+A: -- that's correct.
+
+Q: Love you too.
+A: -- that's correct.
+
+Q: No. It's John
+A: -- that's correct.
+
+Q: Anna did it.
+A: I'm sorry.
+
+Q: You're a liar!
+A: -- that's correct.
+
+Q: You're a liar.
+A: And that's not what happened here.
+
+Q: nice
+A: Yes.
+
+Q: nice.
+A: -- that's correct.
+
+Q: Nice!
+A: Yes.
+
+Q: I live in Nice.
+A: No, your honor.
+
+Q: So rude!
+A: -- that's correct.
+
+Q: ...
+A: Yes.
+
+Q: ?
+A: Yes.
+
+Q: !
+A: Yes.
+
+Q: .
+A: Right.
+
+Q: Can you describe your best memory ?
+A: Yes, your honor.
+
+Q: What is your best memory ?
+A: I'm sorry.
+
+Q: What is your worst memory ?
+A: I'm sorry.
+
+Q: What is cooking ?
+A: No, your honor.
+
+Q: What is sleeping ?
+A: No, your honor.
+
+Q: Who do you love ?
+A: It --
+
+Q: Who do you hate ?
+A: No.
+
+Q: My name is Etienne.
+A: Yes, i do n't think so.
+
+Q: What does that mean ?
+A: No.
+
+Q: What does fire mean ?
+A: It's a very vague.
+
+Q: What does love mean ?
+A: It's a very the --
+
+Q: What does table mean ?
+A: No.
+
+Q: What does imagination mean ?
+A: No.
+
+Q: Prove it
+A: -- in the --
+
+Q: Prove it.
+A: Yes.
+
+Q: Prove it!
+A: -- the court.
+
+Q: what do you think about bill gates ?
+A: I'm sorry.
+
+Q: what happens if machines can think ?
+A: It's a very different.
+
+Q: what is the greatest novel every written ?
+A: And that's not --
+
+Q: have you hurt anyone ?
+A: No, your honor.
+
+Q: Do you have a girlfriend?
+A: Yes.
+
+Q: Do you have a boyfriend?
+A: Yes.
+
+Q: 1992
+A: Yes.
+
+Q: 1992.
+A: -- that's not --
+
+Q: 1992!
+A: Yes.
+
+Q: 1992?
+A: Yes.
+
+Q: 1994
+A: Yes.
+
+Q: 1994.
+A: -- that's correct.
+
+Q: 1994!
+A: And --
+
+Q: 1994?
+A: That's correct.
+
+Q: 2000
+A: But --
+
+Q: 2000.
+A: -- that's correct.
+
+Q: 2001
+A: Yes.
+
+Q: 2001.
+A: -- that's not --
+
+Q: 2001!
+A: Yes.
+
+Q: 2011
+A: Yes.
+
+Q: 2011.
+A: -- that's not --
+
+Q: What happens ?
+A: And --
+
+Q: What happened in 1992 ?
+A: No.
+
+Q: What happened in 2001 ?
+A: No.
+
+Q: When was it ?
+A: No.
+
+Q: July 20th.
+A: Yes.
+
+Q: two plus two
+A: -- the court.
+
+Q: 2+2 ?
+A: Yes.
+
+Q: Where are you ?
+A: Thank you, mr. chief justice.
+
+Q: Where are you now ?
+A: Yes, your honor.
+
+Q: What's your name ?
+A: I'm sorry?
+
+Q: When were you born ?
+A: Yes, your honor.
+
+Q: What year
+A: And --
+
+Q: What year.
+A: It's a very the state --
+
+Q: What year!
+A: And --
+
+Q: What year?
+A: Yes, your honor.
+
+Q: Which year
+A: -- that's correct.
+
+Q: Which year?
+A: Yes.
+
+Q: Which year is it ?
+A: I'm sorry.
+
+Q: What time is it ?
+A: That's a very important point.
+
+Q: Which color ?
+A: Yes.
+
+Q: What color ?
+A: And the --
+
+Q: What time ?
+A: And that's a very the case.
+
+Q: NOTHING.
+A: -- that's correct.
+
+Q: Hi john!
+A: -- the court.
+
+Q: Are you a man or a woman ?
+A: Yes.
+
+Q: Are you a woman or a man ?
+A: No, your honor.
+
+Q: Why are we here ?
+A: I think that's the case.
+
+Q: See you later.
+A: -- that's correct.
+
+Q: See you later...
+A: -- that's correct.
+
+Q: See you later ?
+A: Yes.
+
+Q: My name is David. What is my name ?
+A: It's --
+
+Q: My name is John. What is my name ?
+A: It is --
+
+Q: Are you a leader or a follower ?
+A: No, your honor.
+
+Q: I'm a leader.
+A: Yes, your honor.
+
+Q: I'm a follower.
+A: I'm sorry.
+
+Q: I hate you
+A: -- in the --
+
+Q: Who is skywalker ?
+A: Yes, your honor.
+
+Q: Who is the dude ?
+A: Yes, your honor.
+
+Q: What's your favorite color ?
+A: That's the same question.
+
+Q: What's your favourite color ?
+A: That's the same question.
+
+Q: What's your favorite food ?
+A: No.
+
+Q: What's your favourite food ?
+A: No.
+
+Q: Who is Bill Gates ?
+A: No.
+
+Q: Who is Bill Clinton ?
+A: No.
+
+Q: What do you think of Trump ?
+A: I -- i do n't think so.
+
+Q: What do you think about global warning ?
+A: I --
+
+Q: Is the moon landing a hoax ?
+A: No, your honor.
+
+Q: Is the sky blue or black ?
+A: No, your honor.
+
+Q: Does a cat have a tail ?
+A: No, your honor.
+
+Q: Is a snail faster than a horse ?
+A: No, your honor.
+
+Q: Is a horse faster than a snail ?
+A: No, your honor.
+
+Q: Does a cat have a wing ?
+A: No, your honor.
+
+Q: Can a cat fly ?
+A: Yes.
+
+Q: Can a cat walk ?
+A: Well, i --
+
+Q: Can a cat swim ?
+A: Yes, your honor.
+
+Q: Can a fish fly ?
+A: Yes.
+
+Q: Can a fish walk ?
+A: I'm sorry.
+
+Q: Can a fish swim ?
+A: Yes, your honor.
+
+Q: Can a bird fly ?
+A: Yes.
+
+Q: Can a bird walk ?
+A: Well, i --
+
+Q: Can a bird swim ?
+A: Yes, your honor.
+
+Q: Tell me something
+A: -- in the --
+
+Q: Tell me something.
+A: -- that's correct.
+
+Q: Tell me something!
+A: -- the court.
+
+Q: Tell me a story
+A: -- the court --
+
+Q: Tell me a story, please.
+A: Okay.
+
+Q: Once upon a time...
+A: Okay.
+
+Q: How much is two plus two ?
+A: I'm sorry.
+
+Q: Do you prefer blue food or green food ?
+A: No, your honor.
+
+Q: Do you prefer football or soccer ?
+A: No, your honor.
+
+Q: What do you need to play soccer ?
+A: I'm sorry.
+
+Q: What do you need to play handball ?
+A: I'm sorry.
+
+Q: one, two, three
+A: -- of the --
+
+Q: one two three
+A: I'm sorry.
+
+Q: 1 2 3
+A: -- that's correct.
+
+Q: 1
+A: Yes.
+
+Q: 1 2
+A: -- that's --
+
+Q: 1 2 3 ...
+A: Yes.
+
+Q: 1 2 3 ?
+A: Yes.
+
+Q: A, B, C
+A: -- in the --
+
+Q: A, B, C,...
+A: -- that's correct.
+
+Q: a b c
+A: -- the court.
+
+Q: 1, 2, 3
+A: -- that's correct.
+
+Q: And ?
+A: Yes.
+
+Q: Continue...
+A: -- the court.
+
+Q: And ... action!
+A: -- and --
+
+Q: Action!
+A: Yes.
+
+Q: Let the movie begin
+A: -- the court.
+
+Q: Let the movie begin!
+A: -- to the twinkie --
+
+Q: You are fired!
+A: Yes.
+
+Q: Fire
+A: Yes.
+
+Q: Fire!
+A: -- that's correct.
+
+Q: Fire at will
+A: -- the court.
+
+Q: Fire at will!
+A: No.
+
+Q: Incoming.
+A: -- that's not --
+
+Q: Incoming!
+A: Yes.
+
+Q: Incoming!!
+A: Yes.
+
+Q: How many legs does a human have ?
+A: I'm sorry.
+
+Q: How many legs does a man have ?
+A: I'm sorry.
+
+Q: How many legs does a woman have ?
+A: I'm sorry.
+
+Q: How many legs does a cat have ?
+A: I'm sorry.
+
+Q: How many legs does a spider have ?
+A: I'm sorry.
+
+Q: How many legs does a centipede have ?
+A: I'm sorry.
+
+Q: What is the color of the sky ?
+A: No, your honor.
+
+Q: What is the color of water ?
+A: Yes.
+
+Q: What is the color of blood ?
+A: Yes.
+
+Q: What is the color of a leaf ?
+A: No, your honor.
+
+Q: What is the usual color of a leaf ?
+A: No, your honor.
+
+Q: What is the color of a yellow car ?
+A: Right.
+
+Q: How much is two plus two ?
+A: I'm sorry.
+
+Q: How much is ten minus two ?
+A: Yes, your honor.
+
+Q: What is the purpose of life ?
+A: I'm sorry.
+
+Q: What is the purpose of living ?
+A: I'm sorry.
+
+Q: What is the purpose of existence ?
+A: Yes, your honor.
+
+Q: Where are you now ?
+A: Yes, your honor.
+
+Q: Is Linux better than Windows ?
+A: No.
+
+Q: Is Windows better than Linux ?
+A: Yes, your honor.
+
+Q: What is the purpose of being intelligent ?
+A: No, your honor.
+
+Q: What is the purpose of emotions ?
+A: No.
+
+Q: What is moral ?
+A: Official
+
+Q: What is immoral ?
+A: And --
+
+Q: What is morality ?
+A: No, your honor.
+
+Q: What is altruism ?
+A: No, your honor.
+
+Q: What is the definition of moral ?
+A: No, your honor.
+
+Q: What is the definition of immoral ?
+A: I'm sorry.
+
+Q: What is the definition of morality ?
+A: No.
+
+Q: What is the definition of altruism ?
+A: No.
+
+Q: What is the definition of cool ?
+A: No.
+
+Q: Do you believe in God ?
+A: Yes.
+
+Q: ok ... so what is the definition of morality?
+A: I'm sorry.
+
+Q: seriously , what is morality ?
+A: No, your honor.
+
+Q: why living has anything to do with morality ?
+A: It's a very vague.
+
+Q: what is your job ?
+A: No.
+
+Q: is morality and ethics the same ?
+A: That's correct.
+
+Q: give me some examples of moral actions...
+A: That's correct.
+
+Q: alright , morality ?
+A: Yes, your honor.
+
+Q: what is integrity ?
+A: No, your honor.
+
+Q: Is free will an illusion ?
+A: Yes, your honor.
+
+Q: What is free will ?
+A: That's not --
+
+Q: be moral !
+A: Okay.
+
+Q: i really like our discussion on morality and ethics ...
+A: Yes, your honor.
+
+Q: what do you like to talk about ?
+A: I think --
+
+Q: what would you like to talk about ?
+A: No, your honor.
+
+Q: what do you think about tesla ?
+A: It's --
+
+Q: what do you think about bill gates ?
+A: I'm sorry.
+
+Q: What do you think about messi ?
+A: It's --
+
+Q: what do you think about cleopatra ?
+A: It's --
+
+Q: what do you think about england ?
+A: And --
+
+Q: what do you do ?
+A: It's a very vague.
+
+Q: What is the deepest spot on the world ?
+A: Official
+
+Q: Do you like Mexican food or Indian food ?
+A: No, your honor.
+
+Q: Who are you crazy about ?
+A: No, your honor.
+
+Q: A man
+A: -- the court.
+
+Q: A women
+A: -- that's correct.
+
+Q: A dog
+A: -- the court.
+
+Q: A table
+A: -- that's correct.
+
+Q: A flower
+A: -- that's correct.
+
+Q: A man.
+A: And --
+
+Q: A women.
+A: No.
+
+Q: A dog.
+A: Okay.
+
+Q: A table.
+A: That's correct.
+
+Q: A flower.
+A: No.
+
+Q: One
+A: But --
+
+Q: Two
+A: Yes.
+
+Q: Three
+A: Yes.
+
+Q: Four
+A: Right.
+
+Q: Five
+A: But --
+
+Q: The end
+A: Yes.
+
+Q: Yes it is.
+A: Yes.
+
+Q: Yes it was.
+A: Okay.
+
+Q: Indeed.
+A: Okay.
+
+Q: More
+A: Yes.
+
+Q: More.
+A: Yes.
+
+Q: More!
+A: Yes.
+
+Q: What is the capital of France ?
+A: Yes.
+
+Q: Paris...
+A: Yes.
+
+Q: Where do you want to go ?
+A: No, your honor.
+
+Q: Surprise me.
+A: Okay.
+

@@ -1,0 +1,29 @@
+{
+  "name": "altfred",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon -e js,ts --exec \"ts-node\" src/*.ts",
+    "build": "tsc -p tsconfig.json & cp \"package.json\" \"dist/package.json\"",
+    "create": "claudia create --source dist --api-module bot --region us-east-1",
+    "configure-fb": "claudia update --source dist --configure-fb-bot",
+    "deploy": "claudia update --source dist"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.209.0",
+    "claudia-bot-builder": "^3",
+    "huh": "^2.0.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.7",
+    "@types/request-promise": "^4.1.41",
+    "claudia": "^3",
+    "nodemon": "^1.17.2",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
+  }
+}
